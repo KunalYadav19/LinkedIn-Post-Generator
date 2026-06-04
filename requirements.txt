@@ -11,10 +11,10 @@ streamlit>=1.35.0
 #  Uncomment whichever provider your config.py uses:
 
 # OpenAI
-openai>=1.30.0
+# openai>=1.30.0
 
 # Anthropic
-anthropic>=0.28.0
+# anthropic>=0.28.0
 
 # Google Generative AI
 google-generativeai>=0.7.0
